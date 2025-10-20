@@ -1,1 +1,1 @@
-# pthon_use-func-operator
+# First python devloper 
