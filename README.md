@@ -1,0 +1,1 @@
+# pthon_use-func-operator
