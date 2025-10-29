@@ -1,0 +1,20 @@
+# Create an empty list to store tasks
+tasks = []
+
+# Add tasks to the list
+tasks.append("Buy groceries")
+tasks.append("Finish homework")
+tasks.append("Call mom")
+
+# Display all tasks
+print("Your tasks:")
+for task in tasks:
+    print("- " + task)
+
+# Remove a completed task
+tasks.remove("Finish homework")
+
+# Display updated list
+print("\nUpdated tasks:")
+for task in tasks:
+    print("- " + task)
